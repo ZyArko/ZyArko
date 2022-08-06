@@ -21,6 +21,9 @@ Lifelong learner, trying things about Web Development & Android Application.
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/24/000000/external-terminal-development-royyan-wijaya-detailed-outline-royyan-wijaya.png" style="padding-right:10px;" />
 
+<br />
+<br />
+
 ### Github Stats
 
 <details>
