@@ -6,7 +6,7 @@ Lifelong learner, trying things about Web Development & Android Application.
 
 - 🌱 I’m currently learning Flutter
 - 🥅 2022 Goals: Learn more about Flutter
-- 👯 I love to listen on other people experience
+- 👯 I love to listen on other peoples experience
 - ⚡ Fun fact: I love watching youtube, reading books that helps me
 
 ### Tools and Languages
