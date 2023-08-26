@@ -15,7 +15,7 @@ Lifelong learner, trying things about Web Development & Android Application.
 <img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Arch Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" style="padding-right:10px;" />
+<img align="left" alt="Arch Linux" width="26px" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" style="padding-right:10px;" />
 <img align="left" alt="NextJS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TailwindCSS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
