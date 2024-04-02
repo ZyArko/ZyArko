@@ -22,6 +22,7 @@
 <img align="left" alt="Supabase" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <br />
+<br />
 
 ### Github Stats
 
