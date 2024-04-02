@@ -1,7 +1,5 @@
 # Hi there, I'm Zai👋
 
-Lifelong learner, building things about Mobile & Web Development.
-
 ## About Me
 
 - 🌱 I’m currently learning Flutter
@@ -11,16 +9,18 @@ Lifelong learner, building things about Mobile & Web Development.
 
 ### Tools and Languages
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Javascript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sourcetree" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/313_Sourcetree_logo-512.png" style="padding-right:10px;" />
 <img align="left" alt="Arch Linux" width="26px" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" style="padding-right:10px;" />
 <img align="left" alt="NextJS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TailwindCSS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-
-<br />
+<img align="left" alt="TailwindCSS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Github" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Firebase" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Supabase" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Figma" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <br />
 
 ### Github Stats
